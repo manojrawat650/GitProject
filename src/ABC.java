@@ -13,10 +13,7 @@ public class ABC {
 		System.out.println("adding third through local");
 		System.out.println("Calling sum method of PQR");
 		new PQR().sum();
-		
-
-		
-
+		System.out.println("adding a new statement");
 	}
 
 }
