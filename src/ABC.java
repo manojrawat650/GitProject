@@ -7,8 +7,11 @@ public class ABC {
 		System.out.println("checked out a local branch");
 		System.out.println("adding a statement through local ");
 		System.out.println("chekced out local again");
+
 		System.out.println("making changes in original eclipse");
 		
+		System.out.println("adding third through local");
+
 		
 
 	}
