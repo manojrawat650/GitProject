@@ -11,6 +11,9 @@ public class ABC {
 		System.out.println("making changes in original eclipse");
 		
 		System.out.println("adding third through local");
+		System.out.println("Calling sum method of PQR");
+		new PQR().sum();
+		
 
 		
 
